@@ -1,1 +1,1 @@
-# Random_Color-generator
+# Random_Color-generator Small program
